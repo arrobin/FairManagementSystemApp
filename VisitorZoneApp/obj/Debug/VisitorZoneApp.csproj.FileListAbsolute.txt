@@ -1,0 +1,25 @@
+E:\.NET Web App(Batch-4)\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe.config
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe.config
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.pdb
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csprojResolveAssemblyReference.cache
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.MainUi.resources
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.Properties.Resources.resources
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.VisitorEntryUI.resources
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csproj.GenerateResource.Cache
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.exe
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.pdb
+E:\KHPolash\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneEntryUi.resources
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe.config
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.exe
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.pdb
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.exe
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\bin\Debug\VisitorZoneApp.pdb
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csprojResolveAssemblyReference.cache
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.MainUi.resources
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.Properties.Resources.resources
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.VisitorEntryUi.resources
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneEntryUi.resources
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.csproj.GenerateResource.Cache
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneSpecificVisitorReportUI.resources
+D:\OPP DOT NET C#\SEIP\Group Work\VisitorZoneApp\VisitorZoneApp\obj\Debug\VisitorZoneApp.UI.ZoneWiseVisitorNumberUI.resources
